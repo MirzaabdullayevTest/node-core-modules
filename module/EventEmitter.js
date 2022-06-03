@@ -10,5 +10,3 @@ logger.on('logger', function (obj) {
 // })
 
 logger.emit('logger', { date: '28.05.2022', id: 1 })
-
-
